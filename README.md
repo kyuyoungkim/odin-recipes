@@ -4,4 +4,4 @@ acquired throughout the first few lessons in the Odin Project
 introductory course.
 
 The website will consist of a main page which will have links
-to a few recipes.
+to three recipes.
