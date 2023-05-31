@@ -1,5 +1,5 @@
 # odin-recipes
-This project will be an overview of the basic HTML knowledge
+This project will be an overview of the basic HTML and CSS knowledge
 acquired throughout the first few lessons in the Odin Project
 introductory course.
 
