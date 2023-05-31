@@ -1,0 +1,88 @@
+body {
+    background-color: #e18c61;
+    color: #ffffff;
+    font-family: "Verdana", sans-serif;
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
+}
+
+p {
+    text-align: left;
+}
+
+li {
+    text-align: right;
+}
+
+#last {
+    text-align: center;
+    border: solid;
+    padding: 10px;
+}
+
+.title {
+    text-shadow: 1px 1px 1px #ff5d0ccc,
+                 1px 1px 1px #ff5d0ccc,
+                 1px 1px 1px #ff5d0ccc,
+                 1px 1px 1px #ff5d0ccc;
+}
+
+/* individual recipe pages */
+body#rice {
+    background-color: #e16d2b;
+}
+
+.one {
+    background-color: #f09b6a;
+}
+
+.title.one {
+    color: #d8580f;
+    text-shadow: 1px 1px 1px #ffc3a1a3,
+                 1px 1px 1px #ffc3a1a3,
+                 1px 1px 1px #ffc3a1a3,
+                 1px 1px 1px #ffc3a1a3;
+}
+
+body#trains {
+    background-color: #4b2715;
+}
+
+.two {
+    background-color: #855e4b;
+}
+
+.title.two {
+    color: #241107;
+    text-shadow: 1px 1px 1px #4b2715c6,
+                 1px 1px 1px #4b2715c6,
+                 1px 1px 1px #4b2715c6,
+                 1px 1px 1px #4b2715c6;
+}
+
+body#beach {
+    background-color: #f5da52;
+    color: #482512;
+}
+
+.three {
+    background-color: #ffefa0;
+}
+
+.title.three {
+    color: #f5da52;
+    text-shadow: 1px 1px 1px #4825127c,
+                 1px 1px 1px #4825127c,
+                 1px 1px 1px #4825127c,
+                 1px 1px 1px #4825127c;
+}
+
+/* links */
+a:link {
+    color: #b6ddfb;
+}
+
+a:visited {
+    color: #a21ca9;
+}
