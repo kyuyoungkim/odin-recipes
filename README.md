@@ -5,3 +5,5 @@ introductory course.
 
 The website will consist of a main page which will have links
 to three recipes.
+
+https://kyuyoungkim.github.io/odin-recipes/
