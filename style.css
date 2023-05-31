@@ -100,3 +100,9 @@ a:link {
 a:visited {
     color: #a21ca9;
 }
+
+a:hover,
+a:active,
+a:focus {
+    color: #ee96f2;
+}
